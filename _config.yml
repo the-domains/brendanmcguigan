@@ -1,0 +1,28 @@
+name: BrendanMcGuigan
+favicon: null
+layout_spectrum: 0.4518641820177436
+typography_spectrum: 0.07993906363844872
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.18175184819847345
+  lightness: 0.9282700810581446
+  saturation: 0.7298279798123986
+  rhythmicContrast: 0.052075261948630214
+purpose: []
